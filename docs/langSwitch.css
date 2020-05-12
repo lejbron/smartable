@@ -1,0 +1,9 @@
+body.en :lang(ru) {
+  display: none;
+}
+body.ru :lang(en){
+  display: none;
+}
+
+.toggle.ios, .toggle-on.ios, .toggle-off.ios { border-radius: 20px; border-style: solid; }
+.toggle.ios .toggle-handle { border-radius: 20px; border-style: solid; }
